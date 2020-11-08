@@ -67,4 +67,4 @@ function createCats (cats) {
     console.log(cats);
 }
 
-createCats ("pussycat");
+createCats (cats);
